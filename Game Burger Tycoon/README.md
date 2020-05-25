@@ -1,2 +1,1 @@
-# project-detail
-รายละเอียดโปรเจค/ผลงานต่างๆ
+# Game Burger Tycoon

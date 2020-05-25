@@ -1,2 +1,1 @@
-# project-detail
-รายละเอียดโปรเจค/ผลงานต่างๆ
+# Software Architectural
