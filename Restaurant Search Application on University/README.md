@@ -1,2 +1,2 @@
-# project-detail
-รายละเอียดโปรเจค/ผลงานต่างๆ
+# Restaurant Search Application on University 
+ออกแบบ UX , UI แอพพลิเคชันค้นหาร้สนอาหารภายในมหาวิทยาลัย
