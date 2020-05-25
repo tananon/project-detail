@@ -1,2 +1,4 @@
-# project-detail
-รายละเอียดโปรเจค/ผลงานต่างๆ
+# Application Non Nai Dee
+University dormitory search application
+
+แอพพลิเคชันค้นหาหอพักหลังมหาวิทยาลัย
