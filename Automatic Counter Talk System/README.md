@@ -1,2 +1,2 @@
-# project-detail
-รายละเอียดโปรเจค/ผลงานต่างๆ
+# Automatic Counter Talk System
+ระบบตอบโต้อัตโนมัติ พัฒนาโดย Raspberry Pi
